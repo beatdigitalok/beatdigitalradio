@@ -60,7 +60,7 @@ Just put the files in your server or use Free Hosting
 
 ## Free Hosting
 
-[![Deploy with Vercel](https://vercel.com/new/clone?repository-url=https://github.com/beatdigitalok/beatdigitalradio)
+[![Deploy with Vercel](https://camo.githubusercontent.com/20bea215d35a4e28f2c92ea5b657d006b087687486858a40de2922a4636301ab/68747470733a2f2f76657263656c2e636f6d2f627574746f6e)](https://vercel.com/new/clone?repository-url=https://github.com/beatdigitalok/beatdigitalradio)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jailsonsb2/RadioPlayer-ZenoRadio)
 
 ### Progressive Web App (PWA) Support
